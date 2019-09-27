@@ -28,3 +28,5 @@ add the commons math3 jar file.
 
 4. Add the same in your project, handle the path issues 
 and relocate the packages carefully to get the project working properly.
+
+![alt text](https://github.com/theprogrammedwords/Price-Predictor/blob/master/graph.PNG)
