@@ -1,4 +1,4 @@
-# Price-Predictor-
+# Price-Predictor
 A project based on Linear Regression Model to predict housing prices
 
 Above is a Java Program which works on a univariate dataset which can
