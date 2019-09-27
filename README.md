@@ -15,3 +15,16 @@ in a scatter plot.
 Works appropriately for 
 1. Clustered regualar datasets
 2. Randomized datasets
+
+Steps to run this application :
+1. Download the Apache Commons Maths library from 
+http://commons.apache.org/proper/commons-math/download_math.cgi 
+
+2. Extract the same in your destined Java Project folder.
+
+3. Go to the Netbeans IDE and in the Libraries submenu under Tools,
+click on 'New Library' button and then give it a proper name and 
+add the commons math3 jar file.
+
+4. Add the same in your project, handle the path issues 
+and relocate the packages carefully to get the project working properly.
